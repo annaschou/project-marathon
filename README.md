@@ -50,5 +50,4 @@ External factors: Investigating how elements like the elevation of the marathon 
 
 Social media trends: Collecting and analyzing data on the popularity of running on platforms like Instagram to observe since when topic-related hashtags have been used more or Strava to correlate digital trends with shifts in age demographics. 
 
-Grafics: I would have liked to have integrated a line chart with a runner as a chapter separator and adapted the graphics more to the topic
 
