@@ -1,3 +1,6 @@
+.DS_Store
+data/processed/.DS_Store 
+data/raw/marathon.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
